@@ -1,1 +1,1 @@
-script that add execute permission to owner
+Write a script that sets the permission to the file hello
