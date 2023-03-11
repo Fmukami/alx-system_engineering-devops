@@ -1,1 +1,1 @@
-Write a script that adds execution
+No permissions at all
