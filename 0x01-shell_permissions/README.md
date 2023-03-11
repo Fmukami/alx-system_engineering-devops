@@ -1,1 +1,1 @@
-No permissions at all
+script that sets the mode
