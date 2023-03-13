@@ -1,1 +1,2 @@
-script that prints
+#!/bin/bash
+echo “Hello, World”
